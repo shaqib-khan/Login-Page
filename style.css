@@ -11,11 +11,10 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(img.jpg) ;
+    background-color: #0f172a;
+    background-image: url('img.jpg');
     background-size: cover;
     background-position: center;
-    
-   
 }
 
 .wrapper {
